@@ -1,0 +1,15 @@
+{
+    "files": {
+        "Additional-Data/Module-Settings/default_settings.js": "b7113e2f15b15fe267310df4824c5b6514cce059af5c48a56698290744f5afd3",
+        "Additional-Data/Module-Settings/settings_migrator.js": "35e07967ab6a91fb8f9e6298f4c08d458eff7c5a2d299835bbe528a3ddb21c2b",
+        "Additional-Data/Module-Settings/settings_structure.js": "ca5a29e880cf6bb1b3ba5940e098ebf0affde289d03b2f13a3d99990b8ebadc5",
+        "Readme.md": "bb307b0efeb3597759dab8718cdfe4aa4583e0febd381ca15590e4ac9dc63f1c",
+        "index.js": "b1ee826a566e99d461f5b255019e6d205ac921ced69cb0ff4c641ab089481ca2",
+        "module.json": "faa88dd0c1ef9929d6d79341f21767d2f62e315b556cb4cb7370f16cf731b18b"
+    },
+    "defs": {
+        "S_CREATURE_CHANGE_HP": 6,
+        "S_EACH_SKILL_RESULT": 14,
+        "S_PLAYER_CHANGE_MP": 1
+    }
+}

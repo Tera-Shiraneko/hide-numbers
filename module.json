@@ -1,0 +1,17 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Hide Numbers",
+    "author": "Shalltearz",
+    "description": "Tera Toolbox module which is hiding numbers ingame for less screen spam.",
+    "options": {
+        "niceName": "Hide Numbers",
+        "guiName": "Hide Numbers",
+        "settingsVersion": 1,
+        "settingsFile": "./settings.json",
+        "settingsMigrator": "./Additional-Data/Module-Settings/settings_migrator.js",
+        "reloadable": true
+    },
+    "servers": ["https://raw.githubusercontent.com/Tera-Shiraneko/hide-numbers/master/"],
+    "supportUrl": "https://github.com/Tera-Shiraneko/hide-numbers/issues",
+    "donationUrl": "https://www.paypal.me/Shalltearz"
+}
